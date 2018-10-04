@@ -1,2 +1,3 @@
 # hello-world
-Learning how this git thing works
+Hi its me
+I am Emma. I like volleyball and wish I knew how to code.
